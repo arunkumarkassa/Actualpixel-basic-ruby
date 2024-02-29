@@ -11,7 +11,7 @@ class Student
 
   end
 
-  def to_S
+  def to_s
       "firstname #{@first_name}\n lastname #{@last_name}\n rollno #{@roll_no}\n marks #{@marks}\n username #{@user_name}"
   end
 
